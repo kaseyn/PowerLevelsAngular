@@ -1,0 +1,15 @@
+.top fieldset {
+	width: 250px;
+	height: 200px;
+	display: inline;
+	margin: 0px auto;
+	vertical-align: top;
+}
+
+.bottom fieldset {
+	width: 250px;
+	height: 200px;
+	display: inline;
+	margin: 0px auto;
+	vertical-align: top;
+}
